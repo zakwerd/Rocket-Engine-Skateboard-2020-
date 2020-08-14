@@ -28,3 +28,5 @@ A steam rocket engine is a variant of a thermal rocket engine that utilizes wate
 **Danger: ☆☆☆**  
 **Awesomeness: ☆☆☆☆**  
 R-Candy is homemade solid rocket fuel, and it is surprisingly (and somewhat concerningly) simple to make: There are many variants of R-Candy, but the simplest just involves a 60/40 weight ratio of potassium nitrate (which is sold commercially as stump remover) and white sugar. After mixing these together and letting them sit on a pan at medium heat, they form a thick, brown paste that hardens into R-Candy. Unlike the other engines in which a mechanical or electrical system can be implemented to regulate the thrust output, R-Candy engines start burning and don't stop (as far as I know). This means it's easy to get more thrust: You just make more R-Candy. However, it also means that once the engine starts burning, you can't stop it until it runs out of fuel. I trust in my abilities to estimate how much R-Candy is safe through experimentation, but in general, cars without breaks cause accidents. While I don't think a full R-Candy engine will be my final design, I am definitely going to try it out.
+
+
