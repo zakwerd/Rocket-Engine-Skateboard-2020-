@@ -5,6 +5,8 @@ As I've recently been becoming more and more interested in rocket propulsion sys
 
 Others have made DIY rocket engine vehicles, but they usually use RC jet engines designed for RC planes like [this one](https://www.dreamworksrc.com/catalog/product/view/id/1434/s/jetcat-p100-rx-22-lbs-thrust-rc-turbine-engine/category/75/), which are absurdly expensive. Because of this, I want to design and build my own propulsion system for a fraction of the cost.
 
+For this project, I'll be focusing on a few metrics in particular in regards to the propulsion system: thrust, simplicity (making a turbojet engine from scratch is quite difficult), danger (making a turbojet engine from scratch probably won't end well), and awesomeness. Rocket engine skateboards are inherently pointless, so their only merit is how cool they are. 
+
 ## Propulsion Systems in Consideration  
 ### [Cold Gas Thruster](https://en.wikipedia.org/wiki/Cold_gas_thruster#/media/File:Cold_gas_thruster_diagram.png)  
 **Thrust: ☆☆**  
