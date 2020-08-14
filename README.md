@@ -22,7 +22,7 @@ A cold gas thruster essentially expels pressurized gas through a convergent-dive
 **Awesomeness: ☆☆☆**  
 A steam rocket engine is a variant of a thermal rocket engine that utilizes water. You may have made a steam rocket back in middle school science class because they are actually quite simple. It works by holding pressurized water in a heated tank. A sudden decrease in pressure turns the water to steam as it expels from the engine (usually through a convergent-divergent nozzle). A steam rocket engine would also be on the safer side, and it would look pretty cool too. The engineering behind making various pumps and heating systems to avoid having to preheat the water could be quite challenging, but probably not more challenging than the following engines.
 
-### R-Candy Engine  
+### R-Candy Engine (Solid Fuel Engine)  
 **Thrust: ☆☆☆**  
 **Simplicity: ☆☆☆☆**  
 **Danger: ☆☆☆**  
